@@ -1,0 +1,3 @@
+[submodule "Stratz"]
+	path = Stratz
+	url = git@github.com:pavankumarpolavarapu/Stratz.git
